@@ -1,0 +1,13 @@
+.panel {
+  height: 300px;
+}
+
+#panel01 {
+  background-color: pink;
+}
+#panel02 {
+  background-color: yellow;
+}
+#panel03 {
+  background-color: lightblue;
+}
